@@ -34,5 +34,4 @@ done
 
 echo
 
-echo "added a line"
-echo "added another line"
+echo "added a new line"
