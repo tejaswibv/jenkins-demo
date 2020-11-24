@@ -35,3 +35,4 @@ done
 echo
 
 echo "added a line"
+echo "added another line"
